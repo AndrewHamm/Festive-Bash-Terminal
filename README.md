@@ -1,6 +1,10 @@
 # Festive-Bash-Terminal
 Add emojis to your bash terminal to help you celebrate the holidays or enjoy life.
 
+# Instructions
+Copy and paste the contents of .bash_profile to your own ~/.bash_profile
+
+# Examples
 On holidays the emoji will reflect the day. Feel free to contribute and and add any hollidays not listed. Add your birthday to the birthday variable in the format mmdd.
 
 ![Alt text](https://raw.githubusercontent.com/AndrewHamm/Festive-Bash-Terminal/master/Screenshots/Jack-o-lantern.png "Halloween")
