@@ -8,4 +8,4 @@ On holidays the emoji will reflect the day. Feel free to contribute and and add 
 
 Get a new random emoji every time you open your prompt.
 ![Alt text](https://raw.githubusercontent.com/AndrewHamm/Festive-Bash-Terminal/master/Screenshots/Chicken.png "Chicken")
-![Alt text](https://raw.githubusercontent.com/AndrewHamm/Festive-Bash-Terminal/master/Screenshots/Whale.png "Whale")
+![Alt text](https://raw.githubusercontent.com/AndrewHamm/Festive-Bash-Terminal/master/Screenshots/BlueWhale.png "Whale")
