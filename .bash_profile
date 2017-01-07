@@ -3,7 +3,7 @@
 # change terminal prompt
 CUTE_EMOJI=("🐣 " "🙈 " "🐙 " "🦁 " "🐳 " "🐼 ")
 DEFAULT_EMOJI=${CUTE_EMOJI[$RANDOM % ${#CUTE_EMOJI[@]} ]}
-BIRTHDAY="0107"
+BIRTHDAY="0101"
 TODAY=$(date +%m%d)
 # general format
 # if [ $TODAY == mmdd ]; then EMOJI="<emoji> "; # Holliday Name
